@@ -121,12 +121,12 @@
 
   
 
-      <div class="collapse navbar-collapse" id="navbarNav">
+     <!--  <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav ms-auto">
             <li class="nav-item dropdown">
               <a href="#" class="nav-link dropdown-toggle active" data-bs-toggle="dropdown">Marketplace</a>
               <ul class="dropdown-menu">
-                <!-- Buy Option -->
+               
                 <li class="dropdown-submenu buy-toggle">
                   <a href="#">Buy</a>
                   <ul class="dropdown-options" id="buy-options">
@@ -138,7 +138,7 @@
                   </ul>
                 </li>
 
-                <!-- Sell Option -->
+            
                 <li class="dropdown-submenu sell-toggle">
                   <a href="#">Sell</a>
                   <ul class="dropdown-options" id="sell-options">
@@ -152,14 +152,21 @@
             </li>
           </ul>
         </div>
-
+ -->
 
 
 
 
 
         </div>
+           
 
+
+
+
+      <a href="buy.php" class="nav-item nav-link">Buy</a>
+
+         <a href="buysell.php" class="nav-item nav-link">Sell</a>
 
 
       <a href="wallet.php" class="nav-item nav-link">Wallet</a>
