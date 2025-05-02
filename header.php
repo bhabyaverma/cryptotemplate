@@ -167,11 +167,11 @@
 
         <a href="review.php" class="nav-item nav-link">Review</a>
 
-
-         <a href="knowledge.php" class="nav-item nav-link">Knowledge</a>
+<!-- 
+         <a href="knowledge.php" class="nav-item nav-link">Knowledge</a> -->
          
 
-         <a href="signin.php" class="nav-item">Sign in</a>
+         <a href="signup.php" class="nav-item">Sign up</a>
 
          <a href="adminlogin.php" class="nav-item nav-link">Admin Login</a>
 

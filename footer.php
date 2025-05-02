@@ -35,7 +35,7 @@
                     <h5 class="mb-4">Quick Links</h5>
                     <a class="btn btn-link" href="about.php">About Us</a>
                     <a class="btn btn-link" href="">Contact Us</a>
-                    <a class="btn btn-link" href="knowledge.php">Knowledge</a>
+                    <a class="btn btn-link" href="knowledge.php">Admin Login</a>
                   <!--   <a class="btn btn-link" href="">Terms & Condition</a> -->
                 </div>
                 <div class="col-lg-3 col-md-6">
