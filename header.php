@@ -116,7 +116,7 @@
     <div class="collapse navbar-collapse" id="navbarCollapse">
       <div class="navbar-nav ms-auto py-4 py-lg-0">
         <a href="index.php" class="nav-item nav-link active">Home</a>
-        <a href="about.php" class="nav-item nav-link">About</a>
+        <a href="about.php" class="nav-item nav-link active">About</a>
 
 
   
@@ -124,7 +124,7 @@
       <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav ms-auto">
             <li class="nav-item dropdown">
-              <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Marketplace</a>
+              <a href="#" class="nav-link dropdown-toggle active" data-bs-toggle="dropdown">Marketplace</a>
               <ul class="dropdown-menu">
                 <!-- Buy Option -->
                 <li class="dropdown-submenu buy-toggle">
